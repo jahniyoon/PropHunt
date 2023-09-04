@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/00Prophunt/Scenes/LobbyScene.unity
+    guid: 7f30579fed53ea04e873c67e314cb663
+  - enabled: 1
+    path: Assets/00Prophunt/Scenes/MainScene.unity
+    guid: 246461ea805f3c14cb620102040f1e34
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: fca08ac0ba958ad4cbacdf77f201694e,
+      type: 2}
