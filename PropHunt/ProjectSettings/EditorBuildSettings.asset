@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/00Prophunt/Scenes/MainScene.unity
     guid: 246461ea805f3c14cb620102040f1e34
+  - enabled: 0
+    path: Assets/KriptoFX/VolumetricBloodFX/Demo.unity
+    guid: d9c1b96e5fe3afe4b85bb47679e1f8c9
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: fca08ac0ba958ad4cbacdf77f201694e,
       type: 2}
